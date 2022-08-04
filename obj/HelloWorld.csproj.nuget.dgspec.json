@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\donni\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\donni\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\donni\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\donni\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\donni\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\donni\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\donni\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\donni\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\donni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\donni\\HelloWorld\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\donni\\repos\\HelloWorld\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\donni\\AppData\\Roaming\\NuGet\\NuGet.Config",
